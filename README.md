@@ -16,3 +16,5 @@ Aprendizaje continuo y compartir conocimientos
 LinkedIn www.linkedin.com/in/carlos-ochoa8
 
 ¡Siempre buscando nuevos desafíos y oportunidades para crecer en el mundo del análisis de datos!
+
+![](https://komarev.com/ghpvc/?username=Ed0ch)
