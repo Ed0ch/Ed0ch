@@ -13,7 +13,8 @@ Automatización de procesos de análisis
 Aprendizaje continuo y compartir conocimientos
 🔗 Conéctate conmigo:
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) www.linkedin.com/in/carlos-ochoa8
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
+www.linkedin.com/in/carlos-ochoa8
 
 ¡Siempre buscando nuevos desafíos y oportunidades para crecer en el mundo del análisis de datos!
 
