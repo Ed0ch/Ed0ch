@@ -18,3 +18,4 @@ LinkedIn www.linkedin.com/in/carlos-ochoa8
 ¡Siempre buscando nuevos desafíos y oportunidades para crecer en el mundo del análisis de datos!
 
 ![](https://komarev.com/ghpvc/?username=Ed0ch)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
